@@ -7,7 +7,7 @@ import {
   HomeH1,
   HomeP,
 } from "./HomeElements";
-import Video from "../../Images/Video.mp4";
+import Video from "../../Images/v1.mp4";
 function HeroSection() {
   return (
     <HomeContainer id="home">
