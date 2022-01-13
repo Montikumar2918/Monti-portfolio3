@@ -22,7 +22,7 @@ function About() {
             <a
               className="btn btn-sm btn-success mt-3"
               rel="noreferrer"
-              href={"https://drive.google.com/file/d/1P9ELxKyGoSxSh3SMBpioXoqAt6cCEML2/view?usp=drivesdk"}
+              href={"https://drive.google.com/file/d/1SfSCtcRoWcJt7dHGtzBn4b5ZSLAOQ4zT/view?usp=sharing"}
               
               target="_blank"
               download
