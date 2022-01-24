@@ -24,7 +24,7 @@ function HeroSection() {
         </HomeP>
         <span className="float-left">
           <a
-            href="https://github.com/mkandanmk7"
+            href="https://github.com/Montikumar2918"
             target="_blank"
             rel="noreferrer"
             className="btn btn-sm btn-success btn-circle"
@@ -33,7 +33,7 @@ function HeroSection() {
           </a>
           &emsp;
           <a
-            href="https://www.linkedin.com/in/muthu-web/"
+            href="https://www.linkedin.com/in/monti-kumar-8726b51b7/"
             target="_blank"
             rel="noreferrer"
             className="btn btn-sm btn-success btn-circle"
