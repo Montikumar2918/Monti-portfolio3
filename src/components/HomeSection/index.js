@@ -33,7 +33,7 @@ function HeroSection() {
           </a>
           &emsp;
           <a
-            href="https://www.linkedin.com/in/monti-kumar-8726b51b7/"
+            href="https://www.linkedin.com/in/monti-kumar"
             target="_blank"
             rel="noreferrer"
             className="btn btn-sm btn-success btn-circle"
